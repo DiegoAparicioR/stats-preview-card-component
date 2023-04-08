@@ -14,8 +14,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-![](./images/image-header-desktop.jpg)
-![](./images/image-header-mobile.jpg)
+![](./design/desktop-preview.jpg)
+![](./design/mobile-design.jpg)
 
 ### The challenge
 
@@ -28,6 +28,9 @@ Users should be able to:
 ![](./design/screenshot-desktop.png)
 ![](./design/screenshot-mobile.png)
 
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
 
 ### Built with
 
